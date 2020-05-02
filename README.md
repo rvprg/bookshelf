@@ -26,6 +26,7 @@ The books that I find useful and interesting (not in any particular order).
 ## Fun
 * [Programming Challenges: The Programming Contest Training Manual](https://www.amazon.co.uk/Programming-Challenges-Contest-Training-Computer/dp/0387001638)
 * [Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
+* [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
 ## Other
 * [Alan Turing: The Enigma](https://www.turing.org.uk/book/)
