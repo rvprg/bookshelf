@@ -14,6 +14,7 @@ The books that I find useful and interesting (not in any particular order).
 
 ## Computer Science
 * [Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics)
+* [Selected Papers on Computer Science](https://www-cs-faculty.stanford.edu/~knuth/cs.html)
 * [Literate Programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html)
 * [Introduction To Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 * [Introduction to Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
@@ -27,6 +28,7 @@ The books that I find useful and interesting (not in any particular order).
 * [Programming Challenges: The Programming Contest Training Manual](https://www.amazon.co.uk/Programming-Challenges-Contest-Training-Computer/dp/0387001638)
 * [Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+* [From Geometry to Topology](https://www.amazon.co.uk/Geometry-Topology-Dover-Books-Mathematics/dp/0486419614)
 
 ## Other
 * [Alan Turing: The Enigma](https://www.turing.org.uk/book/)
