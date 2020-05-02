@@ -1,6 +1,6 @@
 The books that I find useful and interesting (not in any particular order).
 
-## Type Theory Books
+## Type Theory
 
 * [The Little Typer](https://mitpress.mit.edu/books/little-typer)
 * [Programming in Martin-Löf’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
@@ -15,10 +15,17 @@ The books that I find useful and interesting (not in any particular order).
 ## Computer Science
 * [Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics)
 * [Literate Programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html)
+* [Introduction To Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+* [Introduction to Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
+* [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 
 ## Programming
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+
+## Fun
+* [Programming Challenges: The Programming Contest Training Manual](https://www.amazon.co.uk/Programming-Challenges-Contest-Training-Computer/dp/0387001638)
+* [Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 
 ## Other
 * [Alan Turing: The Enigma](https://www.turing.org.uk/book/)
@@ -26,4 +33,4 @@ The books that I find useful and interesting (not in any particular order).
 * [I Am a Strange Loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)
 * [Gödel's Proof](https://www.amazon.co.uk/dp/B004DL2JCE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Things a Computer Scientist Rarely Talks About](https://www-cs-faculty.stanford.edu/~knuth/things.html)
-* [Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
+
