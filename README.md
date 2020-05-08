@@ -29,6 +29,7 @@ The books that I find useful and interesting (not in any particular order).
 * [Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * [From Geometry to Topology](https://www.amazon.co.uk/Geometry-Topology-Dover-Books-Mathematics/dp/0486419614)
+* [Logicomix](https://en.wikipedia.org/wiki/Logicomix)
 
 ## Other
 * [Alan Turing: The Enigma](https://www.turing.org.uk/book/)
