@@ -30,6 +30,7 @@ The books that I find useful and interesting (not in any particular order).
 * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * [From Geometry to Topology](https://www.amazon.co.uk/Geometry-Topology-Dover-Books-Mathematics/dp/0486419614)
 * [Logicomix](https://en.wikipedia.org/wiki/Logicomix)
+* [The Thrilling Adventures of Lovelace and Babbage](https://en.wikipedia.org/wiki/The_Thrilling_Adventures_of_Lovelace_and_Babbage)
 
 ## Other
 * [Alan Turing: The Enigma](https://www.turing.org.uk/book/)
