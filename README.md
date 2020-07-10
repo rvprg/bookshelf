@@ -38,4 +38,5 @@ The books that I find useful and interesting (not in any particular order).
 * [I Am a Strange Loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)
 * [Gödel's Proof](https://www.amazon.co.uk/dp/B004DL2JCE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [Things a Computer Scientist Rarely Talks About](https://www-cs-faculty.stanford.edu/~knuth/things.html)
+* [Uncle Petros and Goldbach's Conjecture](https://en.wikipedia.org/wiki/Uncle_Petros_and_Goldbach's_Conjecture)
 
