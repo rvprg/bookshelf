@@ -2,7 +2,7 @@ The books that I find useful and interesting (not in any particular order).
 
 ## Type Theory
 
-* [The Little Typer](https://mitpress.mit.edu/books/little-typer)
+* [The Little Typer](https://mitpress.mit.edu/books/little-typer) (Read this, and then the next book in the list, it'll be much easier.)
 * [Programming in Martin-Löf’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 * [Type Theory & Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 * [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
