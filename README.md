@@ -1,4 +1,4 @@
-The books that I find useful and interesting (not in any particular order).
+The books that I find useful and interesting.
 
 ## Type Theory
 
@@ -9,7 +9,7 @@ The books that I find useful and interesting (not in any particular order).
 
 ## Category Theory
 
-* [Conceptual Mathematics: A First Introduction to Categories](https://www.amazon.co.uk/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X)
+* [Conceptual Mathematics: A First Introduction to Categories](https://www.amazon.co.uk/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X) (Read this, and then the next book in the list, it'll be easier.)
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ## Computer Science
@@ -24,7 +24,7 @@ The books that I find useful and interesting (not in any particular order).
 * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [Literate Programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html)
 
-## Fun
+## Fun/Curious
 * [Programming Challenges: The Programming Contest Training Manual](https://www.amazon.co.uk/Programming-Challenges-Contest-Training-Computer/dp/0387001638)
 * [Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
